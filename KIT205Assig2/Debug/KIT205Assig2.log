@@ -1,0 +1,7 @@
+﻿  graph.c
+  main.c
+  utils.c
+C:\Users\User\Desktop\New folder (8)\KIT205A2\KIT205Assig2Base\KIT205Assig2\utils.c(14,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\New folder (8)\KIT205A2\KIT205Assig2Base\KIT205Assig2\utils.c(37,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  KIT205Assig2.vcxproj -> C:\Users\User\Desktop\New folder (8)\KIT205A2\KIT205Assig2Base\Debug\KIT205Assig2.exe
